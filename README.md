@@ -14,9 +14,9 @@
 
 ---
 
-### 👋 Olá! Sou o MisterAntoY
+### 👋 Hi, I'm MisterAntoY 👋
 
-Engenheiro de Software focado em construir soluções digitais de alto impacto para Angola e o mundo. Apaixonado por código aberto, arquiteturas resilientes, inteligência artificial e interfaces de alto padrão.
+Apaixonado por código aberto, arquiteturas resilientes, LLM and UI/UX .
 
 ```typescript
 const misterAntoY = {
@@ -30,15 +30,13 @@ const misterAntoY = {
 
 ---
 
-## 🚀 Projectos em Destaque
+##  Projectos em Destaque
 
 | Projecto | Descrição | Stack |
 | :--- | :--- | :--- |
 | **[Lino Livre](https://github.com/MisterAntoY/lino-livre)** | Maior acervo digital aberto de livros escolares e cursos gratuitos para estudantes e escolas angolanas. | Node.js, SQLite FTS5, Hono, Cloudflare |
-| **[Piloto Pricen](https://github.com/MisterAntoY/Piloto.Pricen)** | Plataforma SaaS de cotação e comparação de preços de materiais para a construção civil em Angola. | Next.js 16, TypeScript, Prisma, Neon Postgres |
 | **[Lino.digital](https://github.com/MisterAntoY/Lino.d)** | Loja de assinaturas digitais com liquidação nativa via Multicaixa Express e Binance Pay. | Node.js, Express, PostgreSQL, Vanilla Modern JS |
 | **[AFRIC.Fauna](https://github.com/MisterAntoY/Afric.Fauna)** | Plataforma interactiva de exploração, biomas e preservação da biodiversidade e fauna africana. | React 19, TypeScript, Vite, MapLibre GL, Tailwind 4 |
-| **[Tripy Angola](https://github.com/MisterAntoY/trip-angola)** | Aplicação de comunidade e guias de turismo local para explorar as maravilhas de Angola. | React Native, TypeScript, Expo |
 
 ---
 
@@ -76,5 +74,5 @@ const misterAntoY = {
 ---
 
 <p align="center">
-  <sub>Construído com orgulho em Angola 🇦🇴 • Badges estilizadas via <a href="https://shieldcn.dev">shieldcn</a></sub>
+  <sub> Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle
 </p>
