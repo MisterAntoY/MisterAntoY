@@ -1,12 +1,13 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=MisterAntoY&subtitle=Software+Engineer+%7C+Open+Source+%26+Digital+Products+%7C+Angola&logo=github&theme=blue&mode=dark" />
-    <img alt="MisterAntoY" src="https://shieldcn.dev/header/graph.svg?title=MisterAntoY&subtitle=Software+Engineer+%7C+Open+Source+%26+Digital+Products+%7C+Angola&logo=github&theme=blue&mode=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=MisterAntoY&subtitle=Applied+AI+Engineer+%7C+Open+Source+%26+Digital+Products+%7C+Angola&logo=github&theme=blue&mode=dark" />
+    <img alt="MisterAntoY" src="https://shieldcn.dev/header/graph.svg?title=MisterAntoY&subtitle=Applied+AI+Engineer+%7C+Open+Source+%26+Digital+Products+%7C+Angola&logo=github&theme=blue&mode=light" />
   </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/MisterAntoY"><img alt="GitHub Profile" src="https://shieldcn.dev/badge/GitHub-%40MisterAntoY-181717.svg?logo=github&variant=secondary&size=sm&theme=blue" /></a>
+  <img alt="Role" src="https://shieldcn.dev/badge/Role-Applied_AI_Engineer-2563eb.svg?logo=sparkles&variant=secondary&size=sm&theme=blue" />
   <a href="https://github.com/MisterAntoY?tab=followers"><img alt="Followers" src="https://shieldcn.dev/github/followers/MisterAntoY.svg?variant=secondary&size=sm&theme=blue" /></a>
   <a href="https://github.com/MisterAntoY?tab=repositories"><img alt="Public Repos" src="https://shieldcn.dev/badge/Public_Repos-14+-2563eb.svg?logo=git&variant=secondary&size=sm&theme=blue" /></a>
   <img alt="Location" src="https://shieldcn.dev/badge/Location-Luanda%2C_Angola-10b981.svg?variant=secondary&size=sm&theme=blue" />
@@ -14,9 +15,19 @@
 
 ---
 
-### 👋 Hi, I'm MisterAntoY 👋
+### 👋 Olá! Sou o MisterAntoY
 
-Apaixonado por código aberto, arquiteturas resilientes, LLM and UI/UX .
+Applied AI Engineer & Software Engineer focado em construir soluções digitais inteligentes e de alto impacto para Angola e o mundo. Especialista no desenvolvimento e orquestração de agentes autónomos, arquiteturas resilientes em nuvem, inteligência artificial aplicada e interfaces de alto padrão.
+
+```typescript
+const misterAntoY = {
+  pronouns: "Ele/Dele",
+  role: "Applied AI Engineer & Systems Architect",
+  location: "Luanda, Angola 🇦🇴",
+  focus: ["Autonomous AI Agents", "LLM Systems & Multi-Agent Teams", "SaaS Platforms", "Fintech & Local Payments (MCX)", "Digital Literacy"],
+  currentPassions: ["Next.js 16", "Cloudflare Workers & Edge", "Autonomous Agents & AI", "MapLibre & Geospatial Data"]
+};
+```
 ---
 
 ##  Projectos em Destaque
@@ -30,6 +41,16 @@ Apaixonado por código aberto, arquiteturas resilientes, LLM and UI/UX .
 ---
 
 ## 🛠️ Tecnologias & Competências
+
+### Inteligência Artificial & Agentes Autónomos
+<p align="left">
+  <img alt="LLM Orchestration" src="https://shieldcn.dev/badge/LLM_Orchestration-8b5cf6.svg?logo=sparkles&variant=secondary&size=sm" />
+  <img alt="Autonomous Agents" src="https://shieldcn.dev/badge/Autonomous_Agents-6366f1.svg?logo=bot&variant=secondary&size=sm" />
+  <img alt="MCP Protocol" src="https://shieldcn.dev/badge/MCP_Protocol-0ea5e9.svg?variant=secondary&size=sm" />
+  <img alt="OpenAI" src="https://shieldcn.dev/badge/OpenAI-412991.svg?logo=openai&variant=secondary&size=sm" />
+  <img alt="Google Gemini" src="https://shieldcn.dev/badge/Gemini_API-886CE4.svg?logo=googlegemini&variant=secondary&size=sm" />
+  <img alt="Ollama / Local AI" src="https://shieldcn.dev/badge/Ollama-Local_Models-000000.svg?variant=secondary&size=sm" />
+</p>
 
 ### Linguagens & Runtimes
 <p align="left">
