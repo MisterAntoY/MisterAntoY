@@ -17,17 +17,6 @@
 ### 👋 Hi, I'm MisterAntoY 👋
 
 Apaixonado por código aberto, arquiteturas resilientes, LLM and UI/UX .
-
-```typescript
-const misterAntoY = {
-  pronouns: "Ele/Dele",
-  role: "Cloud Systems Engineer",
-  location: "Luanda, Angola 🇦🇴",
-  focus: ["SaaS Platforms","Digital Literacy", "Modern Web Architecture"],
-  currentPassions: ["Next.js 16", "Autonomous Agents & AI", "MapLibre & Geospatial Data"]
-};
-```
-
 ---
 
 ##  Projectos em Destaque
