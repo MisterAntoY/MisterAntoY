@@ -21,10 +21,10 @@ Apaixonado por código aberto, arquiteturas resilientes, LLM and UI/UX .
 ```typescript
 const misterAntoY = {
   pronouns: "Ele/Dele",
-  role: "Fullstack & Cloud Systems Engineer",
+  role: "Cloud Systems Engineer",
   location: "Luanda, Angola 🇦🇴",
-  focus: ["SaaS Platforms", "Fintech & Local Payments (MCX)", "Digital Literacy", "Modern Web Architecture"],
-  currentPassions: ["Next.js 16", "Cloudflare Workers & Edge", "Autonomous Agents & AI", "MapLibre & Geospatial Data"]
+  focus: ["SaaS Platforms","Digital Literacy", "Modern Web Architecture"],
+  currentPassions: ["Next.js 16", "Autonomous Agents & AI", "MapLibre & Geospatial Data"]
 };
 ```
 
