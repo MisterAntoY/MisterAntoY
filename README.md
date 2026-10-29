@@ -1,16 +1,80 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=MisterAntoY&subtitle=Software+Engineer+%7C+Open+Source+%26+Digital+Products+%7C+Angola&logo=github&theme=blue&mode=dark" />
+    <img alt="MisterAntoY" src="https://shieldcn.dev/header/graph.svg?title=MisterAntoY&subtitle=Software+Engineer+%7C+Open+Source+%26+Digital+Products+%7C+Angola&logo=github&theme=blue&mode=light" />
+  </picture>
+</p>
 
-# Hi, I'm MisterAntoY 👋
-#### Oi, Hello Word
-
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40MisterAntoY-181717.svg?logo=github&variant=branded&size=sm&mode=light&theme=slate)](https://github.com/MisterAntoY)
-
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/MisterAntoY.svg?variant=secondary&size=sm&mode=light&theme=slate)](https://github.com/MisterAntoY?tab=followers) [![Public Repos](https://www.shieldcn.dev/badge/Repos-14-2563eb.svg?logo=github&variant=secondary&size=sm&mode=light&theme=slate)](https://github.com/MisterAntoY?tab=repositories)
-
-</div>
-
-## Skills & Technologies
-
-![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm&mode=light&theme=slate) ![Supabase](https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&size=sm&mode=light&theme=slate) ![Cloudflare Workers](https://www.shieldcn.dev/badge/-Cloudflare_Workers-F38020.svg?logo=cloudflare&variant=branded&size=sm&mode=light&theme=slate) ![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm&mode=light&theme=slate) ![Prisma](https://www.shieldcn.dev/badge/-Prisma-2D3748.svg?logo=prisma&variant=branded&size=sm&mode=light&theme=slate) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm&mode=light&theme=slate) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm&mode=light&theme=slate) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm&mode=light&theme=slate) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm&mode=light&theme=slate) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm&mode=light&theme=slate) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm&mode=light&theme=slate) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm&mode=light&theme=slate)
+<p align="center">
+  <a href="https://github.com/MisterAntoY"><img alt="GitHub Profile" src="https://shieldcn.dev/badge/GitHub-%40MisterAntoY-181717.svg?logo=github&variant=secondary&size=sm&theme=blue" /></a>
+  <a href="https://github.com/MisterAntoY?tab=followers"><img alt="Followers" src="https://shieldcn.dev/github/followers/MisterAntoY.svg?variant=secondary&size=sm&theme=blue" /></a>
+  <a href="https://github.com/MisterAntoY?tab=repositories"><img alt="Public Repos" src="https://shieldcn.dev/badge/Public_Repos-14+-2563eb.svg?logo=git&variant=secondary&size=sm&theme=blue" /></a>
+  <img alt="Location" src="https://shieldcn.dev/badge/Location-Luanda%2C_Angola-10b981.svg?variant=secondary&size=sm&theme=blue" />
+</p>
 
 ---
+
+### 👋 Olá! Sou o MisterAntoY
+
+Engenheiro de Software focado em construir soluções digitais de alto impacto para Angola e o mundo. Apaixonado por código aberto, arquiteturas resilientes, inteligência artificial e interfaces de alto padrão.
+
+```typescript
+const misterAntoY = {
+  pronouns: "Ele/Dele",
+  role: "Fullstack & Cloud Systems Engineer",
+  location: "Luanda, Angola 🇦🇴",
+  focus: ["SaaS Platforms", "Fintech & Local Payments (MCX)", "Digital Literacy", "Modern Web Architecture"],
+  currentPassions: ["Next.js 16", "Cloudflare Workers & Edge", "Autonomous Agents & AI", "MapLibre & Geospatial Data"]
+};
+```
+
+---
+
+## 🚀 Projectos em Destaque
+
+| Projecto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[Lino Livre](https://github.com/MisterAntoY/lino-livre)** | Maior acervo digital aberto de livros escolares e cursos gratuitos para estudantes e escolas angolanas. | Node.js, SQLite FTS5, Hono, Cloudflare |
+| **[Piloto Pricen](https://github.com/MisterAntoY/Piloto.Pricen)** | Plataforma SaaS de cotação e comparação de preços de materiais para a construção civil em Angola. | Next.js 16, TypeScript, Prisma, Neon Postgres |
+| **[Lino.digital](https://github.com/MisterAntoY/Lino.d)** | Loja de assinaturas digitais com liquidação nativa via Multicaixa Express e Binance Pay. | Node.js, Express, PostgreSQL, Vanilla Modern JS |
+| **[AFRIC.Fauna](https://github.com/MisterAntoY/Afric.Fauna)** | Plataforma interactiva de exploração, biomas e preservação da biodiversidade e fauna africana. | React 19, TypeScript, Vite, MapLibre GL, Tailwind 4 |
+| **[Tripy Angola](https://github.com/MisterAntoY/trip-angola)** | Aplicação de comunidade e guias de turismo local para explorar as maravilhas de Angola. | React Native, TypeScript, Expo |
+
+---
+
+## 🛠️ Tecnologias & Competências
+
+### Linguagens & Runtimes
+<p align="left">
+  <img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&variant=secondary&size=sm" />
+  <img alt="JavaScript" src="https://shieldcn.dev/badge/JavaScript-F7DF1E.svg?logo=javascript&variant=secondary&size=sm" />
+  <img alt="Node.js" src="https://shieldcn.dev/badge/Node.js-5FA04E.svg?logo=nodedotjs&variant=secondary&size=sm" />
+  <img alt="Python" src="https://shieldcn.dev/badge/Python-3776AB.svg?logo=python&variant=secondary&size=sm" />
+  <img alt="Rust" src="https://shieldcn.dev/badge/Rust-000000.svg?logo=rust&variant=secondary&size=sm" />
+</p>
+
+### Frontend & Frameworks
+<p align="left">
+  <img alt="Next.js" src="https://shieldcn.dev/badge/Next.js-000000.svg?logo=nextdotjs&variant=secondary&size=sm" />
+  <img alt="React" src="https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&variant=secondary&size=sm" />
+  <img alt="Tailwind CSS" src="https://shieldcn.dev/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=secondary&size=sm" />
+  <img alt="Vite" src="https://shieldcn.dev/badge/Vite-646CFF.svg?logo=vite&variant=secondary&size=sm" />
+  <img alt="Radix UI" src="https://shieldcn.dev/badge/Radix_UI-161618.svg?logo=radixui&variant=secondary&size=sm" />
+  <img alt="shadcn/ui" src="https://shieldcn.dev/badge/shadcn%2Fui-000000.svg?logo=shadcnui&variant=secondary&size=sm" />
+</p>
+
+### Backend, Dados & Nuvem
+<p align="left">
+  <img alt="PostgreSQL" src="https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&variant=secondary&size=sm" />
+  <img alt="SQLite" src="https://shieldcn.dev/badge/SQLite-003B57.svg?logo=sqlite&variant=secondary&size=sm" />
+  <img alt="Prisma" src="https://shieldcn.dev/badge/Prisma-2D3748.svg?logo=prisma&variant=secondary&size=sm" />
+  <img alt="Cloudflare" src="https://shieldcn.dev/badge/Cloudflare_Workers-F38020.svg?logo=cloudflare&variant=secondary&size=sm" />
+  <img alt="Supabase" src="https://shieldcn.dev/badge/Supabase-3FCF8E.svg?logo=supabase&variant=secondary&size=sm" />
+  <img alt="Docker" src="https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&variant=secondary&size=sm" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Construído com orgulho em Angola 🇦🇴 • Badges estilizadas via <a href="https://shieldcn.dev">shieldcn</a></sub>
+</p>
