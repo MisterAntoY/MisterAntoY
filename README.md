@@ -23,9 +23,8 @@ Applied AI Engineer & Software Engineer focado em construir soluções digitais 
 const misterAntoY = {
   pronouns: "Ele/Dele",
   role: "Applied AI Engineer & Systems Architect",
-  location: "Luanda, Angola 🇦🇴",
-  focus: ["Autonomous AI Agents", "LLM Systems & Multi-Agent Teams", "SaaS Platforms", "Fintech & Local Payments (MCX)", "Digital Literacy"],
-  currentPassions: ["Next.js 16", "Cloudflare Workers & Edge", "Autonomous Agents & AI", "MapLibre & Geospatial Data"]
+  location: "Son to Word",
+ 
 };
 ```
 ---
